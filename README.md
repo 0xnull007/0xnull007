@@ -2,7 +2,7 @@
   <div align="center">
     <h1> Hi there, I'm Abdul Qadir👋<a href="#"></h1>
   </div>
-### I'm a C/C++ Developer, Teacher and Researcher!
+	  <p><b> I'm a C/C++ Developer, Teacher and Researcher!</b></p>
 
 - 🔭 I’m currently enrolled in BSIT at FCIT PU, Lahore
 - 🌱 I’m currently expanding my knowledge in Cyber Security.
