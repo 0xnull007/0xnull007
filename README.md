@@ -10,7 +10,7 @@
 - 📢 Love to teach and inspire students. Taught over more then 100 students.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected
-
+<!--
 <h2>Tech Stack</h2>
 
 <table width="100">
@@ -90,6 +90,7 @@
     
 </table>
 </p>
+-->
 <p align="center">
 <a href="https://www.linkedin.com/in/abdulqadirarshad/"><img src="https://img.shields.io/badge/-Abdul%20Qadir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:bitf20m510@gmail.com"><img src="https://img.shields.io/badge/-bitf20m510@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
