@@ -1,15 +1,15 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm <a href="https://abdulqadir.me">Abdul Qadir</a>👋<a href="#"></h1>
+    <h1> Hi there, I'm <a href="https://abdulqadir.me">Abdul Qadir</a>👋</h1>
   </div>
 	  <p><b> I'm a C/C++ Developer, Teacher and Researcher!</b></p>
 
 - 🔭 I’m currently enrolled in BSIT at FCIT PU, Lahore
 - 🌱 I’m currently expanding my knowledge in Cyber Security.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 100 students.
+- 📢 Love to teach and inspire students. Taught more than 100 students.
 - 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-- 💎 If you are a Tech boy/girl let's get connected
+- 💎 If you are a Tech boy/girl let's get connected.
 <!--
 <h2>Tech Stack</h2>
 
