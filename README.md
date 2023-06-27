@@ -94,6 +94,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/abdulqadirarshad/"><img src="https://img.shields.io/badge/-Abdul%20Qadir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:bitf20m510@gmail.com"><img src="https://img.shields.io/badge/-bitf20m510@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/#/"><img src="https://img.shields.io/badge/-@abdulqadir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/Abdul_Qadir510"><img src="https://img.shields.io/twitter/follow/:Abdul_Qadir510"/></a>
 <a href="https://leetcode.com/abdul-510/"><img src="https://img.shields.io/badge/-/abdulqadir-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
