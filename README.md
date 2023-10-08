@@ -7,7 +7,7 @@
 - 🔭 I’m currently enrolled in BSIT at FCIT PU, Lahore
 - 🌱 I’m currently expanding my knowledge in Cyber Security.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught more than 100 students.
+- 📢 Love to teach and inspire students.
 - 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected.
 <!--
