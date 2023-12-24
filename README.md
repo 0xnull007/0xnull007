@@ -13,6 +13,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/0xnull007/"><img src="https://img.shields.io/badge/-Abdul%20Qadir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:0xnull007@proton.me"><img src="https://img.shields.io/badge/-0xnull007@proton.me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/0xnull007"><img src="https://img.shields.io/twitter/follow/0xnull007"/></a>
+<a href="mailto:0xnull007@proton.me"><img src="https://img.shields.io/badge/-0xnull007-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 </p>
